@@ -11,13 +11,13 @@ This is a responsive login and registration form built using HTML, CSS, and Java
 
 ## Demo
 
-You can see a live demo of the project here
+You can see a live demo of the project [here](https://karthik-beta.github.io/Responsive-Login-Registration-Form)
 
 ## Getting Started
 
 To get started, you can simply clone this repository and open the index.html file in your browser.
 
-git clone : `https://github.com/your-username/neumorphism-login-form.git`
+git clone : `https://github.com/Karthik-beta/Responsive-Login-Registration-Form.git`
 
 ## Usage
 

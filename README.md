@@ -2,6 +2,8 @@
 
 This is a responsive login and registration form built using HTML, CSS, and JavaScript, with a Neumorphism design style.
 
+![Screenshot](Screenshot.png)
+
 ## Features
 
 * Neumorphism design style
